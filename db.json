@@ -60,6 +60,16 @@
       "description": "Đây là cái mô tả",
       "category": "clothing",
       "id": 7
+    },
+    {
+      "dataBody": {
+        "title": "abcbcb",
+        "price": 123122,
+        "description": "123123",
+        "category": ""
+      },
+      "thumbnail": "https://picsum.photos/300/300.webp",
+      "id": 8
     }
   ],
   "categories": [
